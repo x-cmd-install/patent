@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 23556,
       "digest": "sha256:2849b4090f7de3e36197744dc4a8cf113e37fa3491dab68fa10cb6dfac4d88a0",
-      "download_count": 1,
+      "download_count": 7,
       "created_at": "2026-11-03T16:26:38Z",
       "updated_at": "2026-11-03T16:26:38Z",
       "browser_download_url": "https://github.com/r14dd/patent/releases/download/v0.14.3/dist-manifest.json"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 13293825,
       "digest": "sha256:0ea4349947afa21e880f997e9716f60e5895b3bd24bd5d1e0e2a0688bd9a2659",
-      "download_count": 150,
+      "download_count": 155,
       "created_at": "2026-11-03T16:26:39Z",
       "updated_at": "2026-11-03T16:26:39Z",
       "browser_download_url": "https://github.com/r14dd/patent/releases/download/v0.14.3/patent-x86_64-pc-windows-msvc.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 10758900,
       "digest": "sha256:3af51932ae7935544b5e3352cf8493725772d821a518eae6a38fe8e706057658",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-11-03T16:26:39Z",
       "updated_at": "2026-11-03T16:26:40Z",
       "browser_download_url": "https://github.com/r14dd/patent/releases/download/v0.14.3/patent-x86_64-unknown-linux-gnu.tar.xz"
