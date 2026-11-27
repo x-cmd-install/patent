@@ -47,12 +47,12 @@ Total: **11,934** lines of code across **52** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 2 | 7 | 5 | 0 | 0 | 15 |
-| last60d | 2026-09-27 | 3 | 16 | 5 | 0 | 0 | 23 |
-| 90d | 2026-08-28 | 7 | 27 | 5 | 1 | 0 | 49 |
-| last180d | 2026-05-30 | 22 | 53 | 5 | 53 | 0 | 144 |
-| 360d | 2025-12-01 | 22 | 53 | 5 | 53 | 0 | 155 |
-| last720d | 2024-12-06 | 22 | 53 | 5 | 53 | 0 | 195 |
+| 30d | 2026-10-28 | 2 | 7 | 5 | 0 | 0 | 15 |
+| last60d | 2026-09-28 | 3 | 16 | 5 | 0 | 0 | 23 |
+| 90d | 2026-08-29 | 7 | 27 | 5 | 1 | 0 | 49 |
+| last180d | 2026-05-31 | 22 | 53 | 5 | 53 | 0 | 144 |
+| 360d | 2025-12-02 | 22 | 53 | 5 | 53 | 0 | 155 |
+| last720d | 2024-12-07 | 22 | 53 | 5 | 53 | 0 | 195 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for patent lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:15:57Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:06:59Z._
