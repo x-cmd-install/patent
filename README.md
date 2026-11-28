@@ -14,14 +14,14 @@ x install patent
 
 ## Code insight
 
-Total: **11,934** lines of code across **52** files in the top 5 languages.
+Total: **11,935** lines of code across **52** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 11,768 | 601 | 1,425 | 41 |
 | Nix | 85 | 1 | 16 | 1 |
-| Toml | 81 | 40 | 16 | 4 |
-| Markdown | 0 | 1,211 | 337 | 6 |
+| Toml | 82 | 41 | 16 | 4 |
+| Markdown | 0 | 1,221 | 339 | 6 |
 
 ## Source
 
@@ -32,7 +32,7 @@ Total: **11,934** lines of code across **52** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.14.3` (2026-11-03)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-27
 - **Assets in release**: 14
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **11,934** lines of code across **52** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 53 · **Open PRs**: 5 · **Closed issues**: 53 · **Open issues**: 0 · **Commits**: 195
+- **Releases**: 22 · **Merged PRs**: 55 · **Open PRs**: 1 · **Closed issues**: 53 · **Open issues**: 0 · **Commits**: 199
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 2 | 7 | 5 | 0 | 0 | 15 |
-| last60d | 2026-09-28 | 3 | 16 | 5 | 0 | 0 | 23 |
-| 90d | 2026-08-29 | 7 | 27 | 5 | 1 | 0 | 49 |
-| last180d | 2026-05-31 | 22 | 53 | 5 | 53 | 0 | 144 |
-| 360d | 2025-12-02 | 22 | 53 | 5 | 53 | 0 | 155 |
-| last720d | 2024-12-07 | 22 | 53 | 5 | 53 | 0 | 195 |
+| 30d | 2026-10-29 | 2 | 9 | 1 | 0 | 0 | 19 |
+| last60d | 2026-09-29 | 3 | 18 | 1 | 0 | 0 | 27 |
+| 90d | 2026-08-30 | 6 | 29 | 1 | 1 | 0 | 53 |
+| last180d | 2026-06-01 | 22 | 55 | 1 | 53 | 0 | 148 |
+| 360d | 2025-12-03 | 22 | 55 | 1 | 53 | 0 | 159 |
+| last720d | 2024-12-08 | 22 | 55 | 1 | 53 | 0 | 199 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for patent lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:06:59Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:31:17Z._
