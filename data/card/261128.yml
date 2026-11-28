@@ -1,0 +1,117 @@
+about:
+  description: "A prior-art search for your code ideas — has this dev tool already been shipped?"
+  license: Apache-2.0
+  homepage: https://crates.io/crates/patent
+  head: 2196409
+  archived: false
+  latestVersion: "v0.14.3"
+  latestRelease: "v0.14.3"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T08:31:09Z
+timeline:
+  created: 2026-05-30
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-03
+  lastRelease: 2026-11-03
+  lastPrerelease: 
+popularity:
+  star: 569
+  watcher: 0
+  fork: 24
+  release: 22
+  contributor: 9
+  pullRequest: 95
+  issue: 53
+language:
+  Rust: 491902
+  Tape: 3030
+  Nix: 2597
+totalBytes: 497529
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 2
+    mergedPR: 9
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 19
+  last60d:
+    since: 2026-09-29
+    release: 3
+    mergedPR: 18
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 27
+  last90d:
+    since: 2026-08-30
+    release: 6
+    mergedPR: 29
+    openPR: 1
+    closedIssue: 1
+    openIssue: 0
+    commit: 53
+  last180d:
+    since: 2026-06-01
+    release: 22
+    mergedPR: 55
+    openPR: 1
+    closedIssue: 53
+    openIssue: 0
+    commit: 148
+  last360d:
+    since: 2025-12-03
+    release: 22
+    mergedPR: 55
+    openPR: 1
+    closedIssue: 53
+    openIssue: 0
+    commit: 159
+  last720d:
+    since: 2024-12-08
+    release: 22
+    mergedPR: 55
+    openPR: 1
+    closedIssue: 53
+    openIssue: 0
+    commit: 199
+total:
+  release: 22
+  mergedPR: 55
+  openPR: 1
+  closedIssue: 53
+  openIssue: 0
+  commit: 199
+---
+path: /home/runner/.x-repo/github.com/r14dd/patent
+collectedAt: 2026-11-28T08:31:10Z
+loc:
+  Rust:
+    code: 11768
+    comments: 601
+    blanks: 1425
+    files: 41
+  Nix:
+    code: 85
+    comments: 1
+    blanks: 16
+    files: 1
+  Toml:
+    code: 82
+    comments: 41
+    blanks: 16
+    files: 4
+  Markdown:
+    code: 0
+    comments: 1221
+    blanks: 339
+    files: 6
+total:
+  code: 11964
+  comments: 2597
+  blanks: 1883
+  files: 52
+---
+
+---
